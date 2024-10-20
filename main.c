@@ -1,7 +1,5 @@
 /**
- * SYSC 4001 - Operating Systems
- * Lab section: L12
- * Assignment 1, Part 2 
+ * Operating Systems
  * Design and Implementation of a Kernel Simulator
  * 
  * @author	Saja Fawagreh
