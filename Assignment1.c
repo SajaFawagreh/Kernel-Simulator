@@ -4,8 +4,7 @@
  * Assignment 1, Part 2 
  * Design and Implementation of a Kernel Simulator
  * 
- * @authors	Saja Fawagreh, 1010217326
- *		    Dina Younes, 101231907
+ * @author	Saja Fawagreh
  */
 
 #include <stdlib.h>
