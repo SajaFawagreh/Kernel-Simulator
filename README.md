@@ -1,5 +1,5 @@
 
-# Kernel Simulator for SYSC 4001 Assignment (FCFS)
+# Kernel Simulator
 
 This project is a kernel simulator designed to model and analyze the performance of the **First-Come, First-Served (FCFS)** scheduling algorithm. The simulator tracks process state transitions and produces output logs showing how processes move through the system.
 
